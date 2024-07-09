@@ -15,8 +15,3 @@ The Customer Sales Insight Dashboard provides a comprehensive overview of sales 
 - **Excel** for data preprocessing
 - **Python**: for data analysis
 - **SQL- MySQL** for data extraction and transformation
-
-## Installation and Setup
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/your-username/customer-sales-insight-dashboard.git
