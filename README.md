@@ -1,13 +1,13 @@
-# Customer Sales Insight Dashboard:
+# Customer Sales Insight Dashboard
 
 ## Project Description
 The Customer Sales Insight Dashboard provides a comprehensive overview of sales data, enabling users to analyze customer behaviors, sales trends, and product performance. This dashboard helps businesses make data-driven decisions and improve their sales strategies.
 
 ## Features
-- Sales Trends: Visualize sales trends over time.
-- Customer Segmentation: Segment customers based on purchasing behavior.
-- **Product Performance: Analyze the performance of different products.
-- **Sales Forecasting: Predict future sales based on historical data.
+- **Sales Trends:** Visualize sales trends over time.
+- **Customer Segmentation:** Segment customers based on purchasing behavior.
+- **Product Performance:** Analyze the performance of different products.
+- **Sales Forecasting:** Predict future sales based on historical data.
 
 ## Technologies Used
 - **Power BI** for dashboard creation
