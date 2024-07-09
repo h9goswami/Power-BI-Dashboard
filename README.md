@@ -13,7 +13,7 @@ The Customer Sales Insight Dashboard provides a comprehensive overview of sales 
 - **Power BI** for dashboard creation
 - **DAX (Data Analysis Expressions)** for advanced data manipulation and calculations
 - **Excel** for data preprocessing
-- **Python**: for data modification
+- **Python**: for data analysis
 - **SQL- MySQL** for data extraction and transformation
 
 ## Installation and Setup
